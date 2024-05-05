@@ -1,5 +1,7 @@
 # Ultralight-waterproof-22.5W-10000mAh-Dual-USB-C-carbon-fiber-power-bank-with-PD3.0-QC4-support
-Design and production files
+Open source design and production files for https://www.reddit.com/r/UsbCHardware/comments/1cksl2a/diy_open_source_ultralight_waterproof_225w/
+
+EasyEDA Pro project file (.epro) can be imported into KiCad v8.0 and above
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
