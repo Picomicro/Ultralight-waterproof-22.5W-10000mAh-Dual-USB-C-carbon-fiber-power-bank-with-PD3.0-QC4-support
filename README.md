@@ -17,10 +17,9 @@ Includes design (Schematics, PCBs, 3D Models) and production files (Gerbers, BOM
 
 EasyEDA Pro project file (.epro) can be imported into KiCad v8.0 and above
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
 Disclaimer: Lithium batteries are inherently dangerous. Improper handling may result in fire, explosion, damage to property, injuries or death. Please take the necessary care and precautions when handling lithium batteries. All materials in this repository are experimental in nature and are provided AS IS, without any warranty, explicit or implied, including but not limited to warranties of merchantability, safety or fitness for a particular purpose. By using materials contained in this repository, you agree that you do so AT YOUR OWN RISK. 
 
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
